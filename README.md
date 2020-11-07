@@ -54,7 +54,6 @@ $ terraform destroy --auto-approve VPC/
 ```
 
 
-
 root@ip-172-31-7-10:~# history
     1  cd
     2  ls
