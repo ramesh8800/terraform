@@ -267,5 +267,5 @@ root@ip-172-31-7-10:~# history
   209  git remote add origin https://github.com/ramesh8800/terraform.git
   210  git push https://github.com/ramesh8800/terraform.git
   211  cd
-  212  history
+  212  
 
